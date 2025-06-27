@@ -1,0 +1,95 @@
+{
+  "home": {
+    "title": "Which drink suits you?",
+    "desc": "Find your perfect drink with 10 fun questions!\nTrendy MZ-style personality test",
+    "start": "Start 🚀"
+  },
+  "question": [
+    {
+      "q": "How do you feel today?",
+      "a": ["Fresh and light", "Serious and calm", "Want to relieve stress", "Want to set the mood"]
+    },
+    {
+      "q": "What is your group hangout style?",
+      "a": ["Loud and lively", "Quiet and deep talk", "Honest heart-to-heart", "Classy atmosphere"]
+    },
+    {
+      "q": "Your favorite drinking snack?",
+      "a": ["Chicken, pizza", "Cheese, fruit", "Pork belly, kimchi stew", "Nuts, chocolate"]
+    },
+    {
+      "q": "Which drink do you crave when drinking alone?",
+      "a": ["Sparkling highball", "Smooth makgeolli", "Strong alcohol", "A light glass of wine"]
+    },
+    {
+      "q": "Your favorite season?",
+      "a": ["Summer", "Autumn", "Winter", "Spring"]
+    },
+    {
+      "q": "Why do you drink?",
+      "a": ["For the mood", "To chat with friends", "To refresh", "For the vibes"]
+    },
+    {
+      "q": "Your role at a drinking party?",
+      "a": ["Mood maker", "Quiet enjoyer", "Honest storyteller", "Atmosphere appreciator"]
+    },
+    {
+      "q": "Music you want to hear while drinking?",
+      "a": ["Exciting dance", "Emotional ballad", "Trot, K-pop", "Jazz, classical"]
+    },
+    {
+      "q": "How are you the next day after drinking?",
+      "a": ["No hangover, fresh", "A bit sentimental", "Craving hangover soup", "Relaxed and easy"]
+    },
+    {
+      "q": "Your favorite drinking spot?",
+      "a": ["Pub, bar", "Street tent", "Traditional bar", "Wine bar"]
+    }
+  ],
+  "result": {
+    "soju": {
+      "title": "🍶 Soju",
+      "summary": "Honest and easygoing, soju is perfect for you!",
+      "desc": "On days you want to open up,\nyou love sharing real stories with friends over soju.\nSimple but deep friendships, made deeper with soju.",
+      "tip": "Enjoy soju with delicious snacks, but drink moderately!"
+    },
+    "somaek": {
+      "title": "🍺 Somaek",
+      "summary": "The life of the party, somaek is your drink!",
+      "desc": "Like the perfect mix of beer and soju,\nyou bring energy wherever you go!\nAt gatherings, work dinners, or parties, somaek makes everyone happy.",
+      "tip": "Best with chicken or pizza! Enjoy responsibly :)"
+    },
+    "makgeolli": {
+      "title": "🍶 Makgeolli",
+      "summary": "Full of emotion and tradition, makgeolli suits you!",
+      "desc": "You enjoy the soft grain aroma and traditional style.\nUnder cherry blossoms in spring or listening to rain,\nyou know how to savor a special moment with makgeolli.",
+      "tip": "Pair with Korean pancakes for the best combo! Recharge your vibes~"
+    },
+    "wine": {
+      "title": "🍷 Wine",
+      "summary": "Atmospheric and deep, wine is your match.",
+      "desc": "You love deep talks and emotions.\nA glass of wine melts away the day's fatigue.\nPerfect for alone time or special occasions!",
+      "tip": "Enjoy a glass of wine with good music for perfect healing."
+    },
+    "whisky": {
+      "title": "🥃 Whisky",
+      "summary": "Sophisticated taste, whisky is for you!",
+      "desc": "Like a glass of whisky, you have deep and rich charm.\nYou enjoy savoring the aroma and taste of whisky alone or on special occasions.",
+      "tip": "Pour a glass of whisky and enjoy your own time."
+    },
+    "highball": {
+      "title": "🥂 Highball",
+      "summary": "Fresh and free-spirited, highball is your drink!",
+      "desc": "Like a highball you can enjoy anywhere,\nyou have bright and cheerful energy.\nWith friends, alone, or at a picnic,\na highball makes you the mood maker!",
+      "tip": "Refresh your day with a sparkling highball!"
+    }
+  },
+  "common": {
+    "result_loading": "Loading your result...",
+    "show_result": "Show Result",
+    "share_result": "Share Result",
+    "share_app": "Share App",
+    "retry": "Try Again 🔄",
+    "copied": "URL copied! Share it with your friends."
+  }
+}
