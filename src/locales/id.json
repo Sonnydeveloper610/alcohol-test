@@ -1,0 +1,95 @@
+{
+  "home": {
+    "title": "Minuman apa yang cocok untukmu?",
+    "desc": "Temukan minuman yang cocok dengan 10 pertanyaan!\nTes kepribadian gaya MZ",
+    "start": "Mulai 🚀"
+  },
+  "question": [
+    {
+      "q": "Bagaimana perasaanmu hari ini?",
+      "a": ["Segar dan ringan", "Serius dan tenang", "Ingin melepas stres", "Ingin menciptakan suasana"]
+    },
+    {
+      "q": "Gaya nongkrong dengan temanmu seperti apa?",
+      "a": ["Rame dan seru", "Ngobrol tenang dan dalam", "Curhat jujur", "Suasana mewah"]
+    },
+    {
+      "q": "Cemilan favorit saat minum?",
+      "a": ["Ayam goreng, pizza", "Keju, buah", "Samgyeopsal, sup kimchi", "Kacang, cokelat"]
+    },
+    {
+      "q": "Minuman apa yang kamu pilih saat minum sendiri?",
+      "a": ["Highball berkarbonasi", "Makgeolli lembut", "Alkohol kuat", "Segelas anggur ringan"]
+    },
+    {
+      "q": "Musim favoritmu?",
+      "a": ["Musim panas", "Musim gugur", "Musim dingin", "Musim semi"]
+    },
+    {
+      "q": "Kenapa kamu minum?",
+      "a": ["Untuk suasana", "Ngobrol dengan teman", "Menyegarkan diri", "Karena vibes"]
+    },
+    {
+      "q": "Peranmu di pesta minum?",
+      "a": ["Pembawa suasana", "Penikmat tenang", "Pencerita jujur", "Penikmat suasana"]
+    },
+    {
+      "q": "Musik apa yang ingin kamu dengar saat minum?",
+      "a": ["Dance seru", "Balada emosional", "Trot, K-pop", "Jazz, klasik"]
+    },
+    {
+      "q": "Bagaimana kamu keesokan harinya setelah minum?",
+      "a": ["Tanpa hangover, segar", "Sedikit baper", "Ingin sup hangover", "Santai dan tenang"]
+    },
+    {
+      "q": "Tempat minum favoritmu?",
+      "a": ["Pub, bar", "Tenda pinggir jalan", "Bar tradisional", "Bar anggur"]
+    }
+  ],
+  "result": {
+    "soju": {
+      "title": "🍶 Soju",
+      "summary": "Jujur dan santai, soju cocok untukmu!",
+      "desc": "Di hari-hari ingin curhat,\nkamu suka berbagi cerita nyata dengan teman sambil minum soju.\nPersahabatan sederhana tapi dalam, makin erat dengan soju.",
+      "tip": "Nikmati soju dengan cemilan enak, tapi minum secukupnya!"
+    },
+    "somaek": {
+      "title": "🍺 Somaek",
+      "summary": "Bintang pesta, somaek adalah minumanmu!",
+      "desc": "Seperti campuran sempurna bir dan soju,\nkamu membawa energi ke mana pun pergi!\nDi kumpul, acara kantor, atau pesta, somaek bikin semua senang.",
+      "tip": "Paling enak dengan ayam goreng atau pizza! Nikmati dengan bijak :)"
+    },
+    "makgeolli": {
+      "title": "🍶 Makgeolli",
+      "summary": "Penuh emosi dan tradisi, makgeolli cocok untukmu!",
+      "desc": "Kamu suka aroma lembut biji-bijian dan gaya tradisional.\nDi bawah bunga sakura musim semi atau saat hujan,\nkamu tahu cara menikmati momen spesial dengan makgeolli.",
+      "tip": "Padukan dengan pancake Korea untuk kombinasi terbaik! Isi ulang energimu~"
+    },
+    "wine": {
+      "title": "🍷 Anggur",
+      "summary": "Bersuasana dan dalam, anggur cocok untukmu.",
+      "desc": "Kamu suka obrolan mendalam dan emosional.\nSegelas anggur menghilangkan lelah seharian.\nCocok untuk waktu sendiri atau acara spesial!",
+      "tip": "Nikmati segelas anggur dengan musik bagus untuk healing sempurna."
+    },
+    "whisky": {
+      "title": "🥃 Whisky",
+      "summary": "Selera tinggi, whisky cocok untukmu!",
+      "desc": "Seperti segelas whisky, kamu punya pesona dalam dan kaya.\nKamu suka menikmati aroma dan rasa whisky sendiri atau di acara spesial.",
+      "tip": "Tuang segelas whisky dan nikmati waktumu sendiri."
+    },
+    "highball": {
+      "title": "🥂 Highball",
+      "summary": "Segar dan bebas, highball adalah minumanmu!",
+      "desc": "Seperti highball yang bisa dinikmati di mana saja,\nkamu punya energi ceria dan menyenangkan.\nBersama teman, sendiri, atau piknik,\nhighball bikin kamu jadi pembawa suasana!",
+      "tip": "Segarkan harimu dengan highball berkarbonasi!"
+    }
+  },
+  "common": {
+    "result_loading": "Memuat hasil...",
+    "show_result": "Lihat hasil",
+    "share_result": "Bagikan hasil",
+    "share_app": "Bagikan aplikasi",
+    "retry": "Coba lagi 🔄",
+    "copied": "URL telah disalin! Bagikan ke temanmu."
+  }
+}

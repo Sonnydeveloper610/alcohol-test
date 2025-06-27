@@ -1,0 +1,95 @@
+{
+  "home": {
+    "title": "Qual bebida combina com você?",
+    "desc": "Descubra sua bebida ideal com 10 perguntas!\nTeste de personalidade no estilo MZ",
+    "start": "Começar 🚀"
+  },
+  "question": [
+    {
+      "q": "Como você está se sentindo hoje?",
+      "a": ["Fresco e leve", "Sério e calmo", "Quer aliviar o estresse", "Quer criar um clima"]
+    },
+    {
+      "q": "Como é o seu estilo de encontro com amigos?",
+      "a": ["Barulhento e animado", "Conversa tranquila e profunda", "Conversa honesta", "Ambiente sofisticado"]
+    },
+    {
+      "q": "Qual seu petisco favorito para beber?",
+      "a": ["Frango, pizza", "Queijo, frutas", "Barriga de porco, ensopado de kimchi", "Nozes, chocolate"]
+    },
+    {
+      "q": "Qual bebida você prefere ao beber sozinho?",
+      "a": ["Highball com gás", "Makgeolli suave", "Álcool forte", "Uma taça de vinho leve"]
+    },
+    {
+      "q": "Sua estação do ano favorita?",
+      "a": ["Verão", "Outono", "Inverno", "Primavera"]
+    },
+    {
+      "q": "Por que você bebe?",
+      "a": ["Para criar um clima", "Para conversar com amigos", "Para refrescar", "Pela vibe"]
+    },
+    {
+      "q": "Seu papel em uma festa?",
+      "a": ["Animador", "Apreciador tranquilo", "Contador de histórias", "Apreciador do ambiente"]
+    },
+    {
+      "q": "Música que você quer ouvir enquanto bebe?",
+      "a": ["Dança animada", "Balada emocional", "Trot, K-pop", "Jazz, clássico"]
+    },
+    {
+      "q": "Como você está no dia seguinte após beber?",
+      "a": ["Sem ressaca, fresco", "Um pouco sentimental", "Desejando sopa para ressaca", "Relaxado e tranquilo"]
+    },
+    {
+      "q": "Seu lugar favorito para beber?",
+      "a": ["Pub, bar", "Tenda de rua", "Bar tradicional", "Bar de vinhos"]
+    }
+  ],
+  "result": {
+    "soju": {
+      "title": "🍶 Soju",
+      "summary": "Honesto e descontraído, soju é perfeito para você!",
+      "desc": "Nos dias em que você quer se abrir,\nvocê adora compartilhar histórias reais com amigos tomando soju.\nAmizades simples, mas profundas, ficam ainda melhores com soju.",
+      "tip": "Aproveite o soju com petiscos deliciosos, mas beba com moderação!"
+    },
+    "somaek": {
+      "title": "🍺 Somaek",
+      "summary": "A alma da festa, somaek é sua bebida!",
+      "desc": "Como a mistura perfeita de cerveja e soju,\nvocê traz energia para onde quer que vá!\nEm encontros, jantares de trabalho ou festas, somaek faz todos felizes.",
+      "tip": "Melhor com frango ou pizza! Aproveite com responsabilidade :)"
+    },
+    "makgeolli": {
+      "title": "🍶 Makgeolli",
+      "summary": "Cheio de emoção e tradição, makgeolli combina com você!",
+      "desc": "Você aprecia o aroma suave dos grãos e o estilo tradicional.\nSob as flores de cerejeira na primavera ou ouvindo a chuva,\nvocê sabe como saborear um momento especial com makgeolli.",
+      "tip": "Combine com panquecas coreanas para a melhor combinação! Recarregue suas energias~"
+    },
+    "wine": {
+      "title": "🍷 Vinho",
+      "summary": "Atmosférico e profundo, vinho é o seu par.",
+      "desc": "Você adora conversas profundas e emoções.\nUma taça de vinho alivia o cansaço do dia.\nPerfeito para momentos a sós ou ocasiões especiais!",
+      "tip": "Aproveite uma taça de vinho com boa música para uma cura perfeita."
+    },
+    "whisky": {
+      "title": "🥃 Uísque",
+      "summary": "Gosto sofisticado, uísque é para você!",
+      "desc": "Como um copo de uísque, você tem um charme profundo e rico.\nVocê gosta de saborear o aroma e o sabor do uísque sozinho ou em ocasiões especiais.",
+      "tip": "Sirva um copo de uísque e aproveite seu tempo."
+    },
+    "highball": {
+      "title": "🥂 Highball",
+      "summary": "Fresco e de espírito livre, highball é sua bebida!",
+      "desc": "Como um highball que você pode aproveitar em qualquer lugar,\nvocê tem uma energia brilhante e alegre.\nCom amigos, sozinho ou em um piquenique,\num highball faz de você o animador!",
+      "tip": "Refresque seu dia com um highball com gás!"
+    }
+  },
+  "common": {
+    "result_loading": "Carregando seu resultado...",
+    "show_result": "Mostrar resultado",
+    "share_result": "Compartilhar resultado",
+    "share_app": "Compartilhar aplicativo",
+    "retry": "Tentar novamente 🔄",
+    "copied": "URL copiado! Compartilhe com seus amigos."
+  }
+}

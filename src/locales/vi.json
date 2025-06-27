@@ -1,0 +1,95 @@
+{
+  "home": {
+    "title": "Loại đồ uống nào hợp với bạn?",
+    "desc": "Khám phá đồ uống phù hợp với bạn qua 10 câu hỏi!\nBài test tính cách phong cách MZ",
+    "start": "Bắt đầu 🚀"
+  },
+  "question": [
+    {
+      "q": "Hôm nay bạn cảm thấy thế nào?",
+      "a": ["Tươi mới và nhẹ nhàng", "Nghiêm túc và bình tĩnh", "Muốn giải tỏa căng thẳng", "Muốn tạo không khí"]
+    },
+    {
+      "q": "Phong cách tụ tập với bạn bè của bạn là gì?",
+      "a": ["Ồn ào, náo nhiệt", "Trò chuyện yên tĩnh, sâu sắc", "Tâm sự thật lòng", "Không khí sang trọng"]
+    },
+    {
+      "q": "Món nhắm yêu thích khi uống rượu của bạn là gì?",
+      "a": ["Gà rán, pizza", "Phô mai, trái cây", "Ba chỉ nướng, canh kim chi", "Hạt, sô cô la"]
+    },
+    {
+      "q": "Bạn thích uống gì khi uống một mình?",
+      "a": ["Highball có ga", "Makgeolli mượt", "Rượu mạnh", "Một ly vang nhẹ"]
+    },
+    {
+      "q": "Mùa yêu thích của bạn là gì?",
+      "a": ["Mùa hè", "Mùa thu", "Mùa đông", "Mùa xuân"]
+    },
+    {
+      "q": "Tại sao bạn uống rượu?",
+      "a": ["Để tạo không khí", "Tán gẫu với bạn bè", "Đổi gió", "Vì cảm xúc"]
+    },
+    {
+      "q": "Vai trò của bạn trong buổi tiệc?",
+      "a": ["Người khuấy động", "Người thưởng thức yên tĩnh", "Người kể chuyện thật lòng", "Người cảm nhận không khí"]
+    },
+    {
+      "q": "Bạn muốn nghe nhạc gì khi uống rượu?",
+      "a": ["Nhạc dance sôi động", "Ballad cảm xúc", "Trot, K-pop", "Jazz, cổ điển"]
+    },
+    {
+      "q": "Bạn thế nào vào ngày hôm sau khi uống rượu?",
+      "a": ["Không say, tươi tỉnh", "Hơi cảm xúc", "Thèm canh giải rượu", "Thư giãn, thoải mái"]
+    },
+    {
+      "q": "Địa điểm uống rượu yêu thích của bạn là gì?",
+      "a": ["Quán pub, bar", "Quán vỉa hè", "Quán truyền thống", "Quán rượu vang"]
+    }
+  ],
+  "result": {
+    "soju": {
+      "title": "🍶 Soju",
+      "summary": "Thành thật và thoải mái, soju là dành cho bạn!",
+      "desc": "Vào những ngày muốn tâm sự,\nbạn thích chia sẻ câu chuyện thật với bạn bè bên ly soju.\nTình bạn đơn giản nhưng sâu sắc, càng thêm gắn bó với soju.",
+      "tip": "Thưởng thức soju với món nhắm ngon, nhưng hãy uống vừa phải!"
+    },
+    "somaek": {
+      "title": "🍺 Somaek",
+      "summary": "Linh hồn của bữa tiệc, somaek là đồ uống của bạn!",
+      "desc": "Như sự kết hợp hoàn hảo giữa bia và soju,\nbạn mang lại năng lượng ở bất cứ đâu!\nTrong các buổi tụ tập, tiệc công ty hay bữa tiệc, somaek làm mọi người vui vẻ.",
+      "tip": "Ngon nhất với gà rán hoặc pizza! Uống có trách nhiệm nhé :)"
+    },
+    "makgeolli": {
+      "title": "🍶 Makgeolli",
+      "summary": "Đầy cảm xúc và truyền thống, makgeolli hợp với bạn!",
+      "desc": "Bạn thích hương thơm ngũ cốc dịu nhẹ và phong cách truyền thống.\nDưới tán hoa anh đào mùa xuân hoặc nghe tiếng mưa,\nbạn biết cách tận hưởng khoảnh khắc đặc biệt với makgeolli.",
+      "tip": "Kết hợp với bánh xèo Hàn Quốc là tuyệt nhất! Nạp lại năng lượng~"
+    },
+    "wine": {
+      "title": "🍷 Rượu vang",
+      "summary": "Không khí và sâu sắc, rượu vang là lựa chọn của bạn.",
+      "desc": "Bạn thích trò chuyện sâu sắc và cảm xúc.\nMột ly rượu vang giúp xua tan mệt mỏi trong ngày.\nHoàn hảo cho thời gian một mình hoặc dịp đặc biệt!",
+      "tip": "Thưởng thức một ly rượu vang với nhạc hay để thư giãn hoàn hảo."
+    },
+    "whisky": {
+      "title": "🥃 Whisky",
+      "summary": "Gu tinh tế, whisky là dành cho bạn!",
+      "desc": "Như một ly whisky, bạn có sức hút sâu sắc và phong phú.\nBạn thích thưởng thức hương vị whisky một mình hoặc trong dịp đặc biệt.",
+      "tip": "Rót một ly whisky và tận hưởng thời gian của riêng bạn."
+    },
+    "highball": {
+      "title": "🥂 Highball",
+      "summary": "Tươi mới và tự do, highball là đồ uống của bạn!",
+      "desc": "Như highball có thể thưởng thức ở bất cứ đâu,\nbạn có năng lượng tươi sáng và vui vẻ.\nCùng bạn bè, một mình hoặc picnic,\nhighball giúp bạn trở thành người khuấy động không khí!",
+      "tip": "Làm mới ngày mới với một ly highball có ga!"
+    }
+  },
+  "common": {
+    "result_loading": "Đang tải kết quả...",
+    "show_result": "Xem kết quả",
+    "share_result": "Chia sẻ kết quả",
+    "share_app": "Chia sẻ ứng dụng",
+    "retry": "Thử lại 🔄",
+    "copied": "Đã sao chép URL! Hãy chia sẻ với bạn bè."
+  }
+}
